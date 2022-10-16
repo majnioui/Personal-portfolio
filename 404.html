@@ -1,6 +1,5 @@
 <title>Oops page not found - Mohamed</title>
-<link rel="stylesheet" href="files/style.css" />
-<div class="code-area">
+<div class="page-area">
     <span style="color: #777;font-style:italic;">
       // 404 page not found.
     </span>
@@ -24,3 +23,41 @@
         </span>
     </span>
   </div>
+  <style>
+    body {
+    background: #ffffff;
+    color: #d3d7de;
+    font-family: "Courier new";
+    font-size: 18px;
+    line-height: 1.5em;
+	cursor: default;
+}
+
+a {
+	color: rgb(0, 0, 0);
+}
+
+.page-area {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.page-area > span {
+    display: block;
+}
+
+@media screen and (max-width: 320px) {
+    .page-area {
+		font-size: 5vw;
+		min-width: auto;
+        width: 95%;
+		margin: auto;
+		padding: 5px;
+		padding-left: 10px;
+		line-height: 6.5vw;
+    }
+}
+</style>
