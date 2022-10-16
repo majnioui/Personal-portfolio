@@ -461,17 +461,17 @@ h2::selection {
 
 /* project 1 */
 .card:nth-child(1) {
-  background: url(../assets/project-1.jpg) center center/cover;
+  background: url(../assets/project-1.webp) center center/cover;
 }
 
 /* Project 2 */
 .card:nth-child(2) {
-  background: url(../assets/project-2.jpg) center center/cover;
+  background: url(../assets/project-2.webp) center center/cover;
 }
 
 /* Project 3 */
 .card:nth-child(3) {
-  background: url(../assets/project-3.jpg) center center/cover;
+  background: url(../assets/project-3.webp) center center/cover;
 }
 
 /* Media Queries */
