@@ -504,6 +504,9 @@ h2::selection {
 .fa-linkedin-in {
   color: #0e76a8;
 }
+.fa-instagram {
+  color: #cd486b;
+}
 
 /* Menu  Nav eff */
 .hover-effect::after {
