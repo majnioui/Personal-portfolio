@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website showcasing my projects and skills. Built with pure HTML, CSS, and JavaScript.
 
-![Portfolio Preview](assets/preview.png)
+![Portfolio Preview](assets/personalportfolio.png)
 
 ## ✨ Live Demo
 
